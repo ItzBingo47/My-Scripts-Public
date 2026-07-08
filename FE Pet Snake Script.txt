@@ -316,7 +316,7 @@ end)
 local TextChatService = game:GetService("TextChatService")
 local Players = game:GetService("Players")
 
-local creditText = "FE Pet Snake, Made By Plqyer010 (With The Help Of Gemini Ofc lol)"
+local creditText = "FE Pet Snake, Made By Plqyer010"
 
 -- 1. Check for Modern Chat System (TextChatService)
 if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
