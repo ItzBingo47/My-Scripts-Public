@@ -9,10 +9,10 @@ FE HANDGUN
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzBingo47/My-Scripts-Public/refs/heads/main/FE%20Handgun%20Script%20(PC).txt"))()
 
-FE PET SNAKE
+FE ORBITAL DRONES
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzBingo47/My-Scripts-Public/refs/heads/main/FE%20Orbital%20Drones%20(PC).txt"))()
 
-FE ORBITAL DRONES
+FE PET SNAKE
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzBingo47/My-Scripts-Public/refs/heads/main/FE%20Pet%20Snake%20Script.txt"))()
