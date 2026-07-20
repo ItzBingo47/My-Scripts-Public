@@ -16,3 +16,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzBingo47/My-Scripts
 FE PET SNAKE
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzBingo47/My-Scripts-Public/refs/heads/main/FE%20Pet%20Snake%20Script.txt"))()
+
+FE ROCKET LAUNCHER
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzBingo47/My-Scripts-Public/refs/heads/main/FE%20Rocket%20Launcher.txt"))()
