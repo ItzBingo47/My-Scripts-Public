@@ -1,5 +1,8 @@
 If ur lazy js grab any one of these loadstrings and execute it.
 
+(NEW) 010 REMOTE ABUSER
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzBingo47/My-Scripts-Public/refs/heads/main/010%20Remote%20Abuser%20Public.txt"))()
 
 FE CLASSIC SWORD
 
