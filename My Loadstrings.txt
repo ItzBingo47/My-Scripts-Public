@@ -1,5 +1,9 @@
 If ur lazy js grab any one of these loadstrings and execute it.
 
+010 PANEL
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzBingo47/My-Scripts-Public/refs/heads/main/010%20Panel%20Public%20New.txt"))()
+
 010 REMOTE ABUSER
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzBingo47/My-Scripts-Public/refs/heads/main/010%20Remote%20Abuser%20Public.txt"))()
